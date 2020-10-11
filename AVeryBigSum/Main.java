@@ -2,7 +2,7 @@ package AVeryBigSum;
 
 import java.util.Scanner;
 
-public class Main {               // 9 Eylül 2020 < Fazıl >
+public class Main {               
     static long aVeryBigSum(long[] array) {
         long sum = 0;
         for (long values: array) {
