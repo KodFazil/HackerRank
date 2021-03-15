@@ -2,7 +2,7 @@ package TaumAndBday;
 
 import java.util.Scanner;
 
-public class Main {
+public class Main {                    // 15 Mart 2021 < Fazıl >
 
     static long taumBday(int b, int w, int bc, int wc, int z) {
         int small = 0;
