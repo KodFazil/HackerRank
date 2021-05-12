@@ -2,8 +2,8 @@ package StrangeCounter;
 
 import java.util.Scanner;
 
-public class Main {
-
+public class Main {         // 12 Mayıs 2021 < Fazıl >
+            // with this question I'm in gold level
     static long strangeCounter(long t) {
         long time = 1;
         while (time <= t) {
