@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class Main {            // 23 Ekim 2021 < Fazıl >
 
+    // -> : JAVA 8
     static String [] bigSorting(String [] arr) {
         Arrays.sort(arr, (left, right) -> {
             if (left.length() != right.length())
