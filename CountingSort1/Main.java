@@ -2,7 +2,7 @@ package CountingSort1;
 
 import java.util.Scanner;
 
-public class Main {       // 6 Ekim 2021 < Fazıl >
+public class Main {       // 6 Kasım 2021 < Fazıl >
 
     static int[] countingSort(int[] array) {
         int [] frequencyArray = new int[100];
