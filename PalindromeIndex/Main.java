@@ -3,7 +3,7 @@ package PalindromeIndex;
 import java.util.Scanner;
 
 public class Main {         // 10 Kasım 2021 < Fazıl >
-    // Not: Tüm caseleri geçemedi zaman kısıtında, O(n) lik çözüm varmış. Bir ara tekrar bakıcam.
+    // Not: Tüm caseleri geçemedi zaman kısıtından, O(n) lik çözüm varmış. Bir ara tekrar bakıcam.
     static boolean isPalindrome(String s) {
         int i = 0;
         while (i < s.length() / 2 && s.charAt(i) == s.charAt(s.length() - i - 1)) i++;
